@@ -2,7 +2,7 @@
 
 > Salesforce solution builder focused on maintainable platform systems, developer tooling, and practical interfaces for AI agents.
 
-Canonical profile: https://stepanek.dev
+Canonical profile: https://www.stepanek.dev
 Location: Czech Republic
 Current role: Salesforce Developer at Carvago.com
 

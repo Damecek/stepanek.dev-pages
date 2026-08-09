@@ -3,4 +3,4 @@ Allow: /
 Disallow: /cv
 Disallow: /share/
 
-Sitemap: https://stepanek.dev/sitemap.xml
+Sitemap: https://www.stepanek.dev/sitemap.xml
