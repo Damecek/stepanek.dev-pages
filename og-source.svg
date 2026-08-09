@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1731 909" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Štěpánek — Salesforce Solution Builder</title>
+  <desc id="desc">Monochrome profile card with the Heritage Mono Š mark.</desc>
+  <rect width="1731" height="909" fill="#EFF1F5"/>
+  <path d="M0 72H1731M0 837H1731M1090 0V909" fill="none" stroke="#C8CEDC"/>
+  <text x="90" y="130" fill="#687087" font-family="Menlo" font-size="22" font-weight="700" letter-spacing="4">SALESFORCE · PLATFORM TOOLING · AI</text>
+  <text x="84" y="360" fill="#10172A" font-family="Arial Black" font-size="142" font-weight="900" letter-spacing="-10">ADAM</text>
+  <text x="84" y="505" fill="#10172A" font-family="Arial Black" font-size="142" font-weight="900" letter-spacing="-10">ŠTĚPÁNEK</text>
+  <text x="90" y="620" fill="#687087" font-family="Arial" font-size="30" font-weight="600">Salesforce solution builder</text>
+  <text x="90" y="790" fill="#10172A" font-family="Menlo" font-size="24" font-weight="700" letter-spacing="3">STEPANEK.DEV</text>
+  <rect x="1164" y="145" width="475" height="620" rx="24" fill="#FFFFFF" stroke="#C8CEDC"/>
+  <g transform="translate(1273.5 295) scale(1)">
+    <path d="M128 51.707913 108 35.041246A99 99 0 1 0 148 35.041246Z" fill="none" stroke="#10172A" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M160.172621 100.656809A33 33 0 1 0 128 141A33 33 0 1 1 95.827379 181.343191" fill="none" stroke="#10172A" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1401.5" y="700" fill="#687087" text-anchor="middle" font-family="Menlo" font-size="17" font-weight="700" letter-spacing="3">HERITAGE MONO</text>
+</svg>

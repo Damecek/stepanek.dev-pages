@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Štěpánek Heritage Mono application icon</title>
+  <desc id="desc">The white Heritage Mono Š mark on an Ink square.</desc>
+  <rect width="512" height="512" fill="#10172A"/>
+  <g transform="translate(96 96) scale(1.25)">
+    <path d="M128 51.707913 108 35.041246A99 99 0 1 0 148 35.041246Z" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M160.172621 100.656809A33 33 0 1 0 128 141A33 33 0 1 1 95.827379 181.343191" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
