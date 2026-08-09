@@ -13,6 +13,8 @@ Current role: Salesforce Developer at Carvago.com
 - Model Context Protocol and AI-agent interfaces
 - Experience Cloud and workflow automation
 - Developer tooling and AI-assisted software delivery
+- Salesforce integrations, CI/CD, and DevOps Center
+- Screen Flow and accessible platform interfaces
 
 ## Selected work
 
@@ -20,6 +22,14 @@ Current role: Salesforce Developer at Carvago.com
 - Force Navigator Reloaded: Keyboard-first command palette for Salesforce Lightning. https://github.com/Damecek/force-navigator-reloaded
 - Zed Salesforce Extension: Apex language support for the Zed editor. https://github.com/Damecek/zed-salesforce-extension
 - Salesforce Documentation Context: Salesforce documentation prepared for AI coding workflows. https://github.com/Damecek/salesforce-documentation-context
+- Screen Flow Navigation Button: Reusable navigation controls for Salesforce Screen Flow. https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000RMYTpEAP
+- Brag Application: Lightning Web Runtime site for recording professional achievements. https://brag-app-dev-ed.my.site.com/
+
+## Education and languages
+
+- BSc in General Mathematics, Charles University, 2020. https://www.mff.cuni.cz/en
+- Defended bachelor thesis: Space-filling curves. https://dspace.cuni.cz/handle/20.500.11956/119285
+- Czech: native; English: fluent
 
 ## Verified profiles
 

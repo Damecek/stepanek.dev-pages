@@ -1,1 +1,0 @@
-import{i as e}from"./framework-BaE7mD_r.js";var t=e();function n(){return(0,t.jsx)(`button`,{onClick:()=>window.print(),children:`Print / save PDF`})}export{n as PrintButton};

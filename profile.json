@@ -14,7 +14,10 @@
     "Model Context Protocol",
     "AI-assisted software delivery",
     "Experience Cloud",
-    "Developer tooling"
+    "Developer tooling",
+    "Salesforce integrations",
+    "CI/CD and DevOps Center",
+    "Screen Flow"
   ],
   "profiles": {
     "github": "https://github.com/Damecek",
@@ -38,7 +41,23 @@
     {
       "name": "Salesforce Documentation Context",
       "url": "https://github.com/Damecek/salesforce-documentation-context"
+    },
+    {
+      "name": "Screen Flow Navigation Button",
+      "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000RMYTpEAP"
+    },
+    {
+      "name": "Brag Application",
+      "url": "https://brag-app-dev-ed.my.site.com/"
     }
   ],
+  "education": {
+    "institution": "Charles University",
+    "institution_url": "https://www.mff.cuni.cz/en",
+    "degree": "BSc, General Mathematics",
+    "thesis": "Space-filling curves",
+    "thesis_url": "https://dspace.cuni.cz/handle/20.500.11956/119285"
+  },
+  "languages": ["Czech (native)", "English (fluent)"],
   "updated": "2026-08-09"
 }

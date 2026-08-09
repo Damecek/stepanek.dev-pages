@@ -1,0 +1,1 @@
+import{i as e}from"./framework-BaE7mD_r.js";var t=e();function n(){return(0,t.jsx)(`button`,{onClick:()=>window.print(),children:`Save CV as PDF`})}export{n as PrintButton};
