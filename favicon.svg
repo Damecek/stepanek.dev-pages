@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
   <title id="title">Š Heritage Mono</title>
-  <desc id="desc">A single-colour symmetric Heritage Š with a separated caron and two equal five-sevenths circles centred on the vertical axis.</desc>
-  <path d="M128 51.707913 108 35.041246A99 99 0 1 0 148 35.041246Z" fill="none" stroke="#10172A" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M160.172621 100.656809A33 33 0 1 0 128 141A33 33 0 1 1 95.827379 181.343191" fill="none" stroke="#10172A" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <desc id="desc">A white Heritage Š on a dark rounded square for clear light and dark browser display.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="48" fill="#10172A"/>
+  <path d="M128 51.707913 108 35.041246A99 99 0 1 0 148 35.041246Z" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160.172621 100.656809A33 33 0 1 0 128 141A33 33 0 1 1 95.827379 181.343191" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
