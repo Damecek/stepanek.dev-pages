@@ -1,0 +1,17 @@
+{
+  "name": "Adam Stepanek — Salesforce Solution Builder",
+  "short_name": "Adam Stepanek",
+  "description": "Salesforce solution builder creating maintainable platform systems, developer tools, and practical interfaces for AI agents.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#1559e6",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

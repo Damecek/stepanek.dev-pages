@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cv
+Disallow: /share/
+
+Sitemap: https://stepanek.dev/sitemap.xml

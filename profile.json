@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "canonical_url": "https://stepanek.dev",
+  "name": "Adam Stepanek",
+  "alternate_name": "Adam Štěpánek",
+  "headline": "Salesforce Solution Builder",
+  "location": "Czech Republic",
+  "summary": "Salesforce solution builder focused on maintainable platform systems, developer tooling, and practical interfaces for AI agents.",
+  "expertise": [
+    "Salesforce",
+    "Apex",
+    "Lightning Web Components",
+    "Salesforce architecture",
+    "Model Context Protocol",
+    "AI-assisted software delivery",
+    "Experience Cloud",
+    "Developer tooling"
+  ],
+  "profiles": {
+    "github": "https://github.com/Damecek",
+    "linkedin": "https://www.linkedin.com/in/adam-stepanek-cz",
+    "trailblazer": "https://www.salesforce.com/trailblazer/adamstepanek",
+    "salesforce_stack_exchange": "https://salesforce.stackexchange.com/users/96748/damecek"
+  },
+  "projects": [
+    {
+      "name": "salesforce-mcp-lib",
+      "url": "https://github.com/Damecek/salesforce-mcp-lib"
+    },
+    {
+      "name": "Force Navigator Reloaded",
+      "url": "https://github.com/Damecek/force-navigator-reloaded"
+    },
+    {
+      "name": "Zed Salesforce Extension",
+      "url": "https://github.com/Damecek/zed-salesforce-extension"
+    },
+    {
+      "name": "Salesforce Documentation Context",
+      "url": "https://github.com/Damecek/salesforce-documentation-context"
+    }
+  ],
+  "updated": "2026-08-09"
+}

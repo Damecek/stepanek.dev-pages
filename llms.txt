@@ -1,0 +1,31 @@
+# Adam Stepanek
+
+> Salesforce solution builder focused on maintainable platform systems, developer tooling, and practical interfaces for AI agents.
+
+Canonical profile: https://stepanek.dev
+Location: Czech Republic
+Current role: Salesforce Developer at Carvago.com
+
+## Core expertise
+
+- Salesforce solution design and architecture
+- Apex and Lightning Web Components
+- Model Context Protocol and AI-agent interfaces
+- Experience Cloud and workflow automation
+- Developer tooling and AI-assisted software delivery
+
+## Selected work
+
+- salesforce-mcp-lib: Native Apex framework connecting Salesforce to MCP-compatible AI agents. https://github.com/Damecek/salesforce-mcp-lib
+- Force Navigator Reloaded: Keyboard-first command palette for Salesforce Lightning. https://github.com/Damecek/force-navigator-reloaded
+- Zed Salesforce Extension: Apex language support for the Zed editor. https://github.com/Damecek/zed-salesforce-extension
+- Salesforce Documentation Context: Salesforce documentation prepared for AI coding workflows. https://github.com/Damecek/salesforce-documentation-context
+
+## Verified profiles
+
+- GitHub: https://github.com/Damecek
+- LinkedIn: https://www.linkedin.com/in/adam-stepanek-cz
+- Salesforce Trailblazer: https://www.salesforce.com/trailblazer/adamstepanek
+- Salesforce Stack Exchange: https://salesforce.stackexchange.com/users/96748/damecek
+
+For authoritative current details, use the canonical profile and linked public profiles.
