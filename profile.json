@@ -56,7 +56,8 @@
     "institution_url": "https://www.mff.cuni.cz/en",
     "degree": "BSc, General Mathematics",
     "thesis": "Space-filling curves",
-    "thesis_url": "https://dspace.cuni.cz/handle/20.500.11956/119285"
+    "thesis_url": "https://dspace.cuni.cz/handle/20.500.11956/119285",
+    "thesis_demo_url": "https://damecek.github.io/bakalarska_prace/"
   },
   "languages": ["Czech (native)", "English (fluent)"],
   "updated": "2026-08-09"

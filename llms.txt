@@ -29,6 +29,7 @@ Current role: Salesforce Developer at Carvago.com
 
 - BSc in General Mathematics, Charles University, 2020. https://www.mff.cuni.cz/en
 - Defended bachelor thesis: Space-filling curves. https://dspace.cuni.cz/handle/20.500.11956/119285
+- Interactive thesis companion: Hilbert curve visualisations. https://damecek.github.io/bakalarska_prace/
 - Czech: native; English: fluent
 
 ## Verified profiles
