@@ -3,9 +3,9 @@
   "canonical_url": "https://www.stepanek.dev",
   "name": "Adam Stepanek",
   "alternate_name": "Adam Štěpánek",
-  "headline": "Salesforce Solution Builder",
+  "headline": "Salesforce Developer & AI Consultant",
   "location": "Czech Republic",
-  "summary": "Salesforce solution builder focused on maintainable platform systems, developer tooling, and practical interfaces for AI agents.",
+  "summary": "Adam Štěpánek (Adam Stepanek) is a Salesforce developer and AI consultant in the Czech Republic. He builds Apex and MCP tools and offers in-person AI workflow audits in Vysočina.",
   "expertise": [
     "Salesforce",
     "Apex",
@@ -17,7 +17,10 @@
     "Developer tooling",
     "Salesforce integrations",
     "CI/CD and DevOps Center",
-    "Screen Flow"
+    "Screen Flow",
+    "AI consulting",
+    "AI workflow audits",
+    "Workflow automation"
   ],
   "email": "adam@stepanek.dev",
   "profiles": {
@@ -60,6 +63,34 @@
     "thesis_url": "https://dspace.cuni.cz/handle/20.500.11956/119285",
     "thesis_demo_url": "https://damecek.github.io/bakalarska_prace/"
   },
-  "languages": ["Czech (native)", "English (fluent)"],
-  "updated": "2026-08-09"
+  "languages": [
+    "Czech (native)",
+    "English (fluent)"
+  ],
+  "updated": "2026-10-13",
+  "services": [
+    {
+      "name": "AI pracovní audit",
+      "url": "https://www.stepanek.dev/consulting/",
+      "description": "In-person AI consulting and workflow audit with prioritized automation recommendations. Report within three working days.",
+      "area_served": "Kraj Vysočina, Czech Republic",
+      "language": "Czech",
+      "delivery": "In person only; online version not yet available",
+      "offers": [
+        {
+          "name": "Rychlý audit",
+          "duration_hours": 2,
+          "pilot_price": 2500,
+          "currency": "CZK"
+        },
+        {
+          "name": "Hloubkový audit",
+          "duration_hours": 4,
+          "pilot_price": 5000,
+          "currency": "CZK"
+        }
+      ],
+      "pilot_terms": "Pilot prices apply to the first ten clients and include travel within Vysočina and the report."
+    }
+  ]
 }

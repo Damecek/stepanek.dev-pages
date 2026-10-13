@@ -1,10 +1,27 @@
-# Adam Stepanek
+# Adam Štěpánek (Adam Stepanek)
 
-> Salesforce solution builder focused on maintainable platform systems, developer tooling, and practical interfaces for AI agents.
+> Salesforce developer and AI consultant in the Czech Republic. Apex and MCP tools, AI-assisted software delivery, and in-person AI workflow audits in Vysočina.
 
 Canonical profile: https://www.stepanek.dev
 Location: Czech Republic
 Current role: Salesforce Developer at Carvago.com
+
+## Public pages
+
+- [Professional profile](https://www.stepanek.dev/): Salesforce experience, open-source projects, education, and contact details.
+- [AI consulting in Vysočina](https://www.stepanek.dev/consulting/): Czech-language offer, process, current pilot prices, privacy, and frequently asked questions.
+- [Structured profile](https://www.stepanek.dev/profile.json): Machine-readable profile and consulting offer.
+
+## AI consulting and workflow audits
+
+Adam Štěpánek offers an in-person AI workflow audit (AI pracovní audit) in Kraj Vysočina, Czech Republic. Clients work as usual while he identifies opportunities for AI and workflow automation. The report includes proposed changes, estimated benefits, cost, effort, risks, and priorities and is delivered within three working days.
+
+- Two-hour audit: pilot price 2,500 CZK; 5–10 opportunities and top three recommendations.
+- Four-hour audit: pilot price 5,000 CZK; 10–20 opportunities and a deeper prioritized map.
+- Pilot prices apply to the first ten clients and include travel within Vysočina. Planned prices after the pilot are 7,500 CZK and 15,000 CZK.
+- The online version is in preparation and is not available to book.
+- Savings are estimates to verify after implementation, not guaranteed outcomes.
+- Current offer and booking by email: https://www.stepanek.dev/consulting/
 
 ## Core expertise
 
